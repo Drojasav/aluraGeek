@@ -55,9 +55,9 @@ Para ejecutar este proyecto, necesitas tener instalado:
 Abre el archivo index.html en tu navegador para visualizar la interfaz de usuario.
 
 ## Tecnologías Usadas
-- **HTML5, CSS3 y JavaScript para la interfaz de usuario.
-- **JSON Server para simular una API.
-- **Node.js para manejar dependencias y scripts.
+- HTML5, CSS3 y JavaScript para la interfaz de usuario.
+- JSON Server para simular una API.
+- Node.js para manejar dependencias y scripts.
 
 - **Autor
   
