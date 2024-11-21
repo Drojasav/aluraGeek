@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Stormtrooper",
+      "price": 60,
+      "img": "../img/producto 1.png"
+    },
+    {
+      "id": "2",
+      "name": "Game Boy Classic",
+      "price": 60,
+      "img": "../img/producto 2.png"
+    },
+    {
+      "id": "13f7",
+      "name": "play station",
+      "price": 60,
+      "img": "../img/producto3.png"
+    },
+    {
+      "id": "c38a",
+      "name": "super  nintendo",
+      "price": 3,
+      "img": "../img/producto 4.png"
+    }
+
+
+
+
+  ]
+}
