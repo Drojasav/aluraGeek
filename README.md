@@ -40,21 +40,27 @@ Para ejecutar este proyecto, necesitas tener instalado:
    git clone <url-del-repositorio>
 
 2. Navega al directorio del proyecto:
+   ```bash
    cd AluraGeek
 
 3. Instala las dependencias:
+   ```bash
    npm install
    
-4.Ejecuta el servidor JSON:
-npx json-server db/db.json
+
+4. Ejecuta el servidor JSON:
+   ```bash
+   npx json-server db/db.json
 
 Abre el archivo index.html en tu navegador para visualizar la interfaz de usuario.
 
-Tecnologías Usadas
-HTML5, CSS3 y JavaScript para la interfaz de usuario.
-JSON Server para simular una API.
-Node.js para manejar dependencias y scripts.
-Autor
+## Tecnologías Usadas
+- **HTML5, CSS3 y JavaScript para la interfaz de usuario.
+- **JSON Server para simular una API.
+- **Node.js para manejar dependencias y scripts.
+
+- **Autor
+  
 Desarrollado por Diego Rojas Avellaneda como parte del programa Alura Latam 2024. 💛💙❤️
 
 
